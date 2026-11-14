@@ -1,1 +1,29 @@
+.container {
+    display: grid;
+    grid-template-columns: 40% 60%;
+}
+body {
+    font-family: "DotGothic16", sans-serif;
+    margin: 5px 100px 50px;
+h1 {
+    margin: 0;
+    padding: 10px;
+}
+.left a{
+    display: block;
+    width: 170px;
+    margin: 40px auto;
+    padding: 8px;
+    background-color: #c0c0c0;
+    border: 3px outset #ffffff;
+    color: #000000;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+}
 
+.right {
+    padding: 0px 20px;
+    background-color: #ebdbb0;
+}
