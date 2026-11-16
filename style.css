@@ -11,9 +11,9 @@ h1 {
 }
 .left a{
     display: block;
-    width: auto;
+    width: 220px;
     margin: 20px 10px;
-    font-size: 18px;
+    font-size: 26px;
     padding: 8px;
     background-color: #c0c0c0;
     border: 3px outset #ffffff;
